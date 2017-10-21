@@ -1,0 +1,12 @@
+//Leblond Zachary
+//October 20th, 2017
+//Psuedo Code
+Output to screen Car class
+Create an instance of the Car class
+Iterate through a loop 5 times
+	Call the accelerate function
+	Output to screen the speed by using the get speed function
+Iterate through a loop 5 times
+	Call the brake function
+	Output to screen the speed by using the speed function
+	
